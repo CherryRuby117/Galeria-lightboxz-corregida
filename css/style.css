@@ -15,6 +15,7 @@ header {
 .galeria {
   display: flex;
   justify-content: center;
+  flex-warp: wrap;
   gap: 15px;
   margin: 20px;
 }
@@ -62,4 +63,5 @@ header {
   color: white;
   text-align: center;
   margin-top: 10px;
+
 }
