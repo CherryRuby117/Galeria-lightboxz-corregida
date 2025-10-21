@@ -1,5 +1,5 @@
 body {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
   background: #781316;
   margin: 0;
   padding: 0;
@@ -15,7 +15,7 @@ header {
 .galeria {
   display: flex;
   justify-content: center;
-  flex-warp: wrap;
+  flex-wrap: wrap;
   gap: 15px;
   margin: 20px;
 }
@@ -65,3 +65,4 @@ header {
   margin-top: 10px;
 
 }
+
